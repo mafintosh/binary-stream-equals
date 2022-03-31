@@ -1,0 +1,25 @@
+{
+  "name": "binary-stream-equals",
+  "version": "0.0.0",
+  "description": "WIP - nothing to see here",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "brittle": "^2.2.7",
+    "standard": "^16.0.4",
+    "streamx": "^2.12.4"
+  },
+  "scripts": {
+    "test": "standard && brittle test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mafintosh/binary-stream-equals.git"
+  },
+  "author": "Mathias Buus (@mafintosh)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mafintosh/binary-stream-equals/issues"
+  },
+  "homepage": "https://github.com/mafintosh/binary-stream-equals"
+}
