@@ -1,6 +1,6 @@
 {
   "name": "binary-stream-equals",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "Check if two binary streams have the same content",
   "main": "index.js",
   "dependencies": {
